@@ -78,7 +78,7 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 本字型的英數符號部份，使用了Das Ende der Wildnis（ 網址：http://heiden.daynight.jp ）設計、古騰堡實驗室維護的GL-Otomanopee字型。
 
-本字型製作時，使用過古騰堡實驗室的其他開源字型和Cangjie6（ 網址：https://commons.wikimedia.org/wiki/User:Cangjie6 ）的開源檔案。
+本字型製作時，使用過Cangjie6（ 網址：https://commons.wikimedia.org/wiki/User:Cangjie6 ）的開源圖檔。
 
 特此鳴謝。
 
