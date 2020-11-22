@@ -50,7 +50,7 @@
 
 ## 範例
 
-下圖爲「I.Mahjong-JP」（日本麻雀牌）、「I.Mahjong-HK」（香港麻雀牌）、「I.Mahjong-TW」（臺灣麻將牌）、「I.Mahjong-CAN」（廣東麻雀牌）四種樣式的比較示範：
+下圖爲「I.Mahjong-JP」（日本麻雀牌）、「I.Mahjong-HK」（香港麻雀牌）、「I.Mahjong-TW」（臺灣麻將牌）、「I.Mahjong-CAN」（廣東麻雀牌）四種樣式的比較示範，示範牌張順序爲一筒、二筒、七筒、一索、一索異體、三索、七萬、西風、北風、白板、春花、梅花、赤五萬：
 
 ![image](/pic/compare.png)
 
