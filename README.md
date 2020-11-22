@@ -71,4 +71,4 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 ## 更新履歷
 
 ### 2020/11/22
-公開發佈JP、HK、TW、GD四款字型，版本爲1.00。
+公開發佈JP、HK、TW、CAN四款字型，版本爲1.00。
