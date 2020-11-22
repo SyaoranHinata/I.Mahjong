@@ -1,6 +1,6 @@
 # 「I.Mahjong」（一點麻雀）字型說明檔
 
-「I.Mahjong」（一點麻雀）爲內木一郎製作的開源字型系列，支換OpenType字符轉換功能。字型基於古騰堡實驗室（Gutenberg Labo，網址：http://gutenberg.osdn.jp/）維護的GL-MahjongTile字型改作，沿用與之相同的「M+字型授權條款」釋出。
+「I.Mahjong」（一點麻雀）爲內木一郎製作的開源字型系列，支換OpenType字符轉換功能。字型基於古騰堡實驗室（Gutenberg Labo）維護的GL-MahjongTile字型改作，沿用與之相同的「M+字型授權條款」釋出。
 
 依據麻雀牌的圖樣，分別有「I.Mahjong-JP」（日本麻雀牌）、「I.Mahjong-HK」（香港麻雀牌）、「I.Mahjong-TW」（臺灣麻將牌）、「I.Mahjong-CAN」（廣東麻雀牌）四種樣式選擇，每種圖樣參考了當地的主流麻雀牌設計，不過基於美觀、可讀程度、不同大小的字形清晰度等設計原因，圖樣不一定跟參考對象完全一樣。
 
@@ -64,9 +64,13 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 ## 鳴謝
 
-本字型的英數符號部份，使用了Das Ende der Wildnis（網址：http://heiden.daynight.jp/）設計、古騰堡實驗室（Gutenberg Labo，網址：http://gutenberg.osdn.jp/）維護的GL-Otomanopee字型。
+本字型基於古騰堡實驗室（Gutenberg Labo，網址：http://gutenberg.osdn.jp ）維護的GL-MahjongTile字型改作。
 
-本字型製作時，使用過古騰堡實驗室的其他開源字型和Cangjie6（網址：https://commons.wikimedia.org/wiki/User:Cangjie6）的開源檔案。特此鳴謝。
+本字型的英數符號部份，使用了Das Ende der Wildnis（網址：http://heiden.daynight.jp ）設計、古騰堡實驗室維護的GL-Otomanopee字型。
+
+本字型製作時，使用過古騰堡實驗室的其他開源字型和Cangjie6（網址：https://commons.wikimedia.org/wiki/User:Cangjie6 ）的開源檔案。
+
+特此鳴謝。
 
 ## 更新履歷
 
