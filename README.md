@@ -48,6 +48,16 @@
 
 * **全形空格**：本字型的全形空格爲半張麻雀的寬度。
 
+## 範例
+
+下圖爲「I.Mahjong-JP」（日本麻雀牌）、「I.Mahjong-HK」（香港麻雀牌）、「I.Mahjong-TW」（臺灣麻將牌）、「I.Mahjong-CAN」（廣東麻雀牌）四種樣式的比較示範：
+
+![image](/pic/compare.png)
+
+下圖爲於支換OpenType字符轉換功能的環境下，選擇日本麻雀牌樣式時，輸入「3ma-3m=3m3m5p-5pa=5p5p4z-4z=4z4za5za-5z=5z5z」或「3ma-3m=3m3m5p-0p=5p5p4z-4z=4z8z0z-5z=5z5z」的效果：
+
+![image](/pic/eg.png)
+
 ## 授權條款
 
 本字型檔案採用「M+字型授權條款」釋出。如下：
