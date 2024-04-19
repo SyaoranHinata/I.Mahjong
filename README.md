@@ -82,6 +82,10 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
 特此鳴謝。
 
+## 相關連結
+
+[OpenType機能付き麻雀牌図フォント　Japanese Mahjong Font with OpenType](https://github.com/rutopio/Japanese-Mahjong-Font-with-OpenType)
+
 ## 更新履歷
 
 ### 2020/11/22
